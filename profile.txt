@@ -1,0 +1,4 @@
+Name: Aman
+Role: B.Tech Student
+Learning: Git and GitHub
+Goal: Open Source Contribution
